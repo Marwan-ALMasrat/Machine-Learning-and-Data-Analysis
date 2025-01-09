@@ -1,3 +1,3 @@
-# SHAI
-## This projects is part of my training course to practice and apply key concepts in data science in SHAI for AI academy.
+# Machine Learning and Data Analysis
+
 
